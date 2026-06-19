@@ -40,3 +40,9 @@ yarn-error.*
 /ios
 /android
 asc-api-key.p8
+AuthKey.p8
+
+# Credentials
+dist_cert.p12
+*.mobileprovision
+credentials.json

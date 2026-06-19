@@ -15,11 +15,12 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.yulfoundation.bitcoinpaykyc",
-      "buildNumber": "1",
+      "buildNumber": "2",
       "infoPlist": {
         "NSCameraUsageDescription": "This app needs access to camera for KYC identity verification.",
         "NSPhotoLibraryUsageDescription": "This app needs access to photo library to upload identity documents.",
-        "NSFaceIDUsageDescription": "This app uses Face ID for biometric authentication."
+        "NSFaceIDUsageDescription": "This app uses Face ID for biometric authentication.",
+        "ITSAppUsesNonExemptEncryption": false
       }
     },
     "android": {
